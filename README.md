@@ -47,7 +47,7 @@ Se generó una Base de datos Trailerflix con sus tablas y datos del json enviado
 </li>
 <li>
     <p>En Default Target Schema seleccionar trailerflix y presionar botón Start Import (abajo a la derecha):</p>
-    <a href="" ><img style=" width: 60%; text-align: center; " src="./public/img/paso4.png" alt="PASO 4"></a>
+    <a href="" ><img style=" width: 60%; text-align: center; " src="./public/img/paso4.png" alt="PASO 4 "></a>
 </li>
 </ul>
 
