@@ -74,7 +74,7 @@ Se generó una Base de datos Trailerflix con sus tablas y datos del json enviado
 <div class="warning"  style='padding:0.3em; background-color:#ccd9ff; color:##696969 border-radius: 30px;'>
 <span >
 <p align="center">
-Dentro del archivo Consultas.SQL se encuentran todas las consultas a ejecutar para obtener los datos requeridos. 
+Dentro del archivo CONSULTASSQL.SQL se encuentran todas las consultas a ejecutar para obtener los datos requeridos. 
 </p>
 </p></span>
 </div>
