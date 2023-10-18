@@ -11,6 +11,7 @@
     - [Información General](#información-general)
     - [Importar BD](#importar-bd)
     - [Tablas SQL](#tablas-sql)
+    - [Consultas SQL](#consultas-sql)
     - [Colaboradores](#colaboradores)
 
 ### Información General
@@ -30,24 +31,24 @@ Se generó una Base de datos Trailerflix con sus tablas y datos del json enviado
 <ul>
 <li>
   <p >Abrir MYSQL y crear un Schema haciendo click con botón derecho de mouse. Seleccionar Create Schema:</p>
-  <a href="" ><img style=" width: 30%; text-align: center; " src="./public/img/paso1.png" alt="PASO 1"></a>
+  <a href="" ><img style=" width: 30%; text-align: center; " src="./public/img/Paso1.png" alt="PASO 1"></a>
 </li>
 <li>
   <p >En name escribir trailerflix y Charset/Collation utf8. Finalmente presionar Apply:</p>
-  <a href="" ><img style=" width: 30%; text-align: center; " src="./public/img/paso2.png" alt="PASO 2"></a>
+  <a href="" ><img style=" width: 30%; text-align: center; " src="./public/img/Paso2.png" alt="PASO 2"></a>
 </li>
 <li>
   <p>Una vez creada la BD trailerflix hacer click sobre ella y seleccionar en el menú de arriba, Server, Data Import:</p>
-  <a href="" ><img style=" width: 30%; text-align: center; " src="./public/img/paso3.png" alt="PASO 3"></a>
+  <a href="" ><img style=" width: 30%; text-align: center; " src="./public/img/Paso3.png" alt="PASO 3"></a>
     <p>Si no aparece se puede hacer desde acá:</p>
-    <a href="" ><img style=" width: 30%; text-align: center; " src="./public/img/paso32.png" alt="PASO 3.2"></a>
+    <a href="" ><img style=" width: 30%; text-align: center; " src="./public/img/Paso32.png" alt="PASO 3.2"></a>
 </li>
 <li>
   <p>Hacer click en Import from Self-Contained Field y seleccionar la carpeta y el archivo, donde guardaron el archivo trailerflix.sql.</p>
 </li>
 <li>
     <p>En Default Target Schema seleccionar trailerflix y presionar botón Start Import (abajo a la derecha):</p>
-    <a href="" ><img style=" width: 60%; text-align: center; " src="./public/img/paso4.png" alt="PASO 4 "></a>
+    <a href="" ><img style=" width: 60%; text-align: center; " src="./public/img/Paso4.png" alt="PASO 4 "></a>
 </li>
 </ul>
 
@@ -68,6 +69,16 @@ Se generó una Base de datos Trailerflix con sus tablas y datos del json enviado
   
 ```
 
+### Consultas SQL
+***
+<div class="warning"  style='padding:0.3em; background-color:#ccd9ff; color:##696969 border-radius: 30px;'>
+<span >
+<p align="center">
+Dentro del archivo Consultas.SQL se encuentran todas las consultas a ejecutar para obtener los datos requeridos. 
+</p>
+</p></span>
+</div>
+
 
 
 <!-- ### Graficos 
@@ -76,14 +87,16 @@ Se generó una Base de datos Trailerflix con sus tablas y datos del json enviado
 ``` -->
 ### Colaboradores 
 ***
-<!-- <a href="https://github.com/antonellamino/INGENIAS-Pre-entrega2/graphs/contributors" target="_blank">
+<a href="https://github.com/antonellamino/INGENIAS-Pre-entrega3/graphs/contributors" target="_blank">
 <img alt="Carolina Mendez" title="Carolina Mendez" style=" width: 60px; /* Tamaño de los avatares */
   height: 60px;
-  border-radius: 50%;" src="https://avatars.githubusercontent.com/u/49485102?s=60&v=4
-  "></a>
-  <a href="https://github.com/antonellamino/INGENIAS-Pre-entrega2/graphs/contributors" target="_blank">
+  border-radius: 50%;" src="https://avatars.githubusercontent.com/u/49485102?s=60&v=4"></a>
+  <a href="https://github.com/antonellamino/INGENIAS-Pre-entrega3/graphs/contributors" target="_blank">
 <img alt="Antonella Mino" title="Antonella Mino" style=" width: 60px; /* Tamaño de los avatares */
   height: 60px;
-  border-radius: 50%;" src="https://avatars.githubusercontent.com/u/69389897?s=60&v=4
-  "></a> -->
-<!-- <img src=""> -->
+  border-radius: 50%;" src="https://avatars.githubusercontent.com/u/69389897?s=60&v=4"></a> 
+   <a href="https://github.com/antonellamino/INGENIAS-Pre-entrega3/graphs/contributors" target="_blank">
+<img alt="Cristina Tizio" title="Cristina Tizio" style=" width: 60px; /* Tamaño de los avatares */
+  height: 60px;
+  border-radius: 50%;" src="https://avatars.githubusercontent.com/u/92401813?s=60&v=4"></a> 
+  
