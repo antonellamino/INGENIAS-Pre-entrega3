@@ -90,8 +90,7 @@ Dentro del archivo Consultas.SQL se encuentran todas las consultas a ejecutar pa
 <a href="https://github.com/antonellamino/INGENIAS-Pre-entrega3/graphs/contributors" target="_blank">
 <img alt="Carolina Mendez" title="Carolina Mendez" style=" width: 60px; /* Tamaño de los avatares */
   height: 60px;
-  border-radius: 50%;" src="https://avatars.githubusercontent.com/u/49485102?s=60&v=4
-  "></a>
+  border-radius: 50%;" src="https://avatars.githubusercontent.com/u/49485102?s=60&v=4"></a>
   <a href="https://github.com/antonellamino/INGENIAS-Pre-entrega3/graphs/contributors" target="_blank">
 <img alt="Antonella Mino" title="Antonella Mino" style=" width: 60px; /* Tamaño de los avatares */
   height: 60px;
